@@ -14,5 +14,6 @@ pip install -r requirements.txt
 
 ## NLP 
 1. Baseline (Logistic Regression)
-2. BERT [Paper](https://arxiv.org/abs/1810.04805) | [GitHub](https://kgithub.com/google-research/bert) | [HuggingFace](https://huggingface.co/bert-base-uncased) 
+2. BERT [Paper](https://arxiv.org/abs/1810.04805) | [GitHub](https://kgithub.com/google-research/bert) | [HuggingFace](https://huggingface.co/bert-base-uncased)  
+[Attention is all you need](https://arxiv.org/abs/1706.03762)
 3. LLM Tuning: [ChatGLM2-6b](https://kgithub.com/THUDM/ChatGLM-6B)
